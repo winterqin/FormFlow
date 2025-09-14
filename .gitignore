@@ -8,5 +8,5 @@ wheels/
 
 # Virtual environments
 .venv
-
+browser-use/
 .env
