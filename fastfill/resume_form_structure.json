@@ -1,0 +1,249 @@
+[
+  {
+    "selector": "html:only-child > body > form:only-child > p > label:only-child > input:only-child",
+    "tag": "input",
+    "type": "input",
+    "name": "custname",
+    "label": "Customer name:",
+    "required": false,
+    "placeholder": ""
+  },
+  {
+    "selector": "html:only-child > body > form:only-child > p:nth-of-type(2) > label:only-child > input:only-child",
+    "tag": "input",
+    "type": "tel",
+    "name": "custtel",
+    "label": "Telephone:",
+    "required": false,
+    "placeholder": ""
+  },
+  {
+    "selector": "html:only-child > body > form:only-child > p:nth-of-type(3) > label:only-child > input:only-child",
+    "tag": "input",
+    "type": "email",
+    "name": "custemail",
+    "label": "E-mail address:",
+    "required": false,
+    "placeholder": ""
+  },
+  {
+    "selector": "html:only-child > body > form:only-child > fieldset > p > label:only-child > input:only-child",
+    "tag": "input",
+    "type": "radio",
+    "name": "size",
+    "label": "Small",
+    "required": false,
+    "placeholder": "",
+    "options": [
+      {
+        "value": "small",
+        "text": "Small",
+        "selected": false
+      },
+      {
+        "value": "medium",
+        "text": "Medium",
+        "selected": false
+      },
+      {
+        "value": "large",
+        "text": "Large",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "selector": "html:only-child > body > form:only-child > fieldset > p:nth-of-type(2) > label:only-child > input:only-child",
+    "tag": "input",
+    "type": "radio",
+    "name": "size",
+    "label": "Medium",
+    "required": false,
+    "placeholder": "",
+    "options": [
+      {
+        "value": "small",
+        "text": "Small",
+        "selected": false
+      },
+      {
+        "value": "medium",
+        "text": "Medium",
+        "selected": false
+      },
+      {
+        "value": "large",
+        "text": "Large",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "selector": "html:only-child > body > form:only-child > fieldset > p:nth-of-type(3) > label:only-child > input:only-child",
+    "tag": "input",
+    "type": "radio",
+    "name": "size",
+    "label": "Large",
+    "required": false,
+    "placeholder": "",
+    "options": [
+      {
+        "value": "small",
+        "text": "Small",
+        "selected": false
+      },
+      {
+        "value": "medium",
+        "text": "Medium",
+        "selected": false
+      },
+      {
+        "value": "large",
+        "text": "Large",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "selector": "html:only-child > body > form:only-child > fieldset:nth-of-type(2) > p > label:only-child > input:only-child",
+    "tag": "input",
+    "type": "checkbox",
+    "name": "topping",
+    "label": "Bacon",
+    "required": false,
+    "placeholder": "",
+    "options": [
+      {
+        "value": "bacon",
+        "text": "Bacon",
+        "selected": false
+      },
+      {
+        "value": "cheese",
+        "text": "Extra Cheese",
+        "selected": false
+      },
+      {
+        "value": "onion",
+        "text": "Onion",
+        "selected": false
+      },
+      {
+        "value": "mushroom",
+        "text": "Mushroom",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "selector": "html:only-child > body > form:only-child > fieldset:nth-of-type(2) > p:nth-of-type(2) > label:only-child > input:only-child",
+    "tag": "input",
+    "type": "checkbox",
+    "name": "topping",
+    "label": "Extra Cheese",
+    "required": false,
+    "placeholder": "",
+    "options": [
+      {
+        "value": "bacon",
+        "text": "Bacon",
+        "selected": false
+      },
+      {
+        "value": "cheese",
+        "text": "Extra Cheese",
+        "selected": false
+      },
+      {
+        "value": "onion",
+        "text": "Onion",
+        "selected": false
+      },
+      {
+        "value": "mushroom",
+        "text": "Mushroom",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "selector": "html:only-child > body > form:only-child > fieldset:nth-of-type(2) > p:nth-of-type(3) > label:only-child > input:only-child",
+    "tag": "input",
+    "type": "checkbox",
+    "name": "topping",
+    "label": "Onion",
+    "required": false,
+    "placeholder": "",
+    "options": [
+      {
+        "value": "bacon",
+        "text": "Bacon",
+        "selected": false
+      },
+      {
+        "value": "cheese",
+        "text": "Extra Cheese",
+        "selected": false
+      },
+      {
+        "value": "onion",
+        "text": "Onion",
+        "selected": false
+      },
+      {
+        "value": "mushroom",
+        "text": "Mushroom",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "selector": "html:only-child > body > form:only-child > fieldset:nth-of-type(2) > p:nth-of-type(4) > label:only-child > input:only-child",
+    "tag": "input",
+    "type": "checkbox",
+    "name": "topping",
+    "label": "Mushroom",
+    "required": false,
+    "placeholder": "",
+    "options": [
+      {
+        "value": "bacon",
+        "text": "Bacon",
+        "selected": false
+      },
+      {
+        "value": "cheese",
+        "text": "Extra Cheese",
+        "selected": false
+      },
+      {
+        "value": "onion",
+        "text": "Onion",
+        "selected": false
+      },
+      {
+        "value": "mushroom",
+        "text": "Mushroom",
+        "selected": false
+      }
+    ]
+  },
+  {
+    "selector": "html:only-child > body > form:only-child > p:nth-of-type(4) > label:only-child > input:only-child",
+    "tag": "input",
+    "type": "time",
+    "name": "delivery",
+    "label": "Preferred delivery time:",
+    "required": false,
+    "placeholder": ""
+  },
+  {
+    "selector": "html:only-child > body > form:only-child > p:nth-of-type(5) > label:only-child > textarea:only-child",
+    "tag": "textarea",
+    "type": "textarea",
+    "name": "comments",
+    "label": "Delivery instructions:",
+    "required": false,
+    "placeholder": ""
+  }
+]
