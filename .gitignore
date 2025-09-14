@@ -5,7 +5,7 @@ build/
 dist/
 wheels/
 *.egg-info
-
+.pdf
 # Virtual environments
 .venv
 browser-use/
